@@ -9,3 +9,8 @@
 .swiper-slide {
   height: auto;
 }
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: #db2777;
+}
