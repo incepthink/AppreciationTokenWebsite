@@ -14,3 +14,7 @@
 .swiper-button-next {
   color: #db2777;
 }
+
+.swiper-pagination-bullet-active {
+  background: #db2777;
+}
