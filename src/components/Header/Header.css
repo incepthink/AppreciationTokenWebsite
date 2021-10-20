@@ -1,0 +1,12 @@
+.header {
+  height: 90vh;
+}
+
+@media (max-width: 1023px) {
+  .header {
+    height: auto;
+  }
+  .header-logo {
+    width: 150px;
+  }
+}
